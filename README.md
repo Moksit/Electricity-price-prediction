@@ -1,1 +1,2 @@
-# Electricity-price-prediction
+# Electricity-price-prediction (a data challenge by Elmy)
+The exercise involves supervised modeling of the price difference between the intraday market (known as "Intraday") and the SPOT market. The price difference can be modeled using regression but also classification, as the primary goal is to correctly predict the direction of this difference (whether one price will be higher or lower than the other).
